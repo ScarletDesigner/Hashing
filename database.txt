@@ -1,0 +1,1470 @@
+Index 0:  
+Index 1:  
+Index 2:  
+Index 3:  Aleksandrowicz Aleksandrowicz 
+Index 4:  
+Index 5:  
+Index 6:  
+Index 7:  
+Index 8:  
+Index 9:  
+Index 10:  
+Index 11:  
+Index 12:  
+Index 13:  
+Index 14:  
+Index 15:  
+Index 16:  
+Index 17:  
+Index 18:  
+Index 19:  
+Index 20:  
+Index 21:  
+Index 22:  
+Index 23:  
+Index 24:  
+Index 25:  
+Index 26:  
+Index 27:  
+Index 28:  
+Index 29:  
+Index 30:  
+Index 31:  
+Index 32:  
+Index 33:  
+Index 34:  
+Index 35:  
+Index 36:  
+Index 37:  
+Index 38:  
+Index 39:  
+Index 40:  
+Index 41:  
+Index 42:  
+Index 43:  
+Index 44:  
+Index 45:  
+Index 46:  
+Index 47:  
+Index 48:  
+Index 49:  
+Index 50:  
+Index 51:  
+Index 52:  
+Index 53:  
+Index 54:  
+Index 55:  
+Index 56:  
+Index 57:  
+Index 58:  
+Index 59:  
+Index 60:  
+Index 61:  
+Index 62:  
+Index 63:  
+Index 64:  
+Index 65:  
+Index 66:  
+Index 67:  
+Index 68:  
+Index 69:  
+Index 70:  
+Index 71:  
+Index 72:  
+Index 73:  
+Index 74:  
+Index 75:  
+Index 76:  
+Index 77:  
+Index 78:  
+Index 79:  
+Index 80:  
+Index 81:  
+Index 82:  
+Index 83:  
+Index 84:  
+Index 85:  
+Index 86:  
+Index 87:  
+Index 88:  
+Index 89:  
+Index 90:  
+Index 91:  
+Index 92:  
+Index 93:  
+Index 94:  
+Index 95:  
+Index 96:  
+Index 97:  
+Index 98:  
+Index 99:  
+Index 100:  
+Index 101:  
+Index 102:  
+Index 103:  
+Index 104:  
+Index 105:  
+Index 106:  
+Index 107:  
+Index 108:  
+Index 109:  
+Index 110:  
+Index 111:  
+Index 112:  
+Index 113:  
+Index 114:  
+Index 115:  
+Index 116:  
+Index 117:  
+Index 118:  
+Index 119:  
+Index 120:  
+Index 121:  
+Index 122:  
+Index 123:  
+Index 124:  
+Index 125:  
+Index 126:  
+Index 127:  
+Index 128:  
+Index 129:  
+Index 130:  
+Index 131:  
+Index 132:  
+Index 133:  
+Index 134:  
+Index 135:  
+Index 136:  
+Index 137:  
+Index 138:  
+Index 139:  
+Index 140:  
+Index 141:  
+Index 142:  
+Index 143:  
+Index 144:  
+Index 145:  
+Index 146:  
+Index 147:  
+Index 148:  
+Index 149:  
+Index 150:  
+Index 151:  
+Index 152:  
+Index 153:  
+Index 154:  
+Index 155:  
+Index 156:  
+Index 157:  
+Index 158:  
+Index 159:  
+Index 160:  
+Index 161:  
+Index 162:  
+Index 163:  
+Index 164:  
+Index 165:  
+Index 166:  
+Index 167:  
+Index 168:  
+Index 169:  
+Index 170:  
+Index 171:  
+Index 172:  
+Index 173:  
+Index 174:  
+Index 175:  
+Index 176:  
+Index 177:  
+Index 178:  
+Index 179:  
+Index 180:  
+Index 181:  
+Index 182:  
+Index 183:  
+Index 184:  
+Index 185:  
+Index 186:  
+Index 187:  
+Index 188:  
+Index 189:  
+Index 190:  
+Index 191:  
+Index 192:  
+Index 193:  
+Index 194:  
+Index 195:  
+Index 196:  
+Index 197:  
+Index 198:  
+Index 199:  
+Index 200:  
+Index 201:  
+Index 202:  
+Index 203:  
+Index 204:  
+Index 205:  
+Index 206:  
+Index 207:  
+Index 208:  
+Index 209:  
+Index 210:  
+Index 211:  
+Index 212:  
+Index 213:  
+Index 214:  
+Index 215:  
+Index 216:  
+Index 217:  
+Index 218:  
+Index 219:  
+Index 220:  
+Index 221:  
+Index 222:  
+Index 223:  
+Index 224:  
+Index 225:  
+Index 226:  
+Index 227:  
+Index 228:  
+Index 229:  
+Index 230:  
+Index 231:  
+Index 232:  
+Index 233:  
+Index 234:  
+Index 235:  
+Index 236:  
+Index 237:  
+Index 238:  
+Index 239:  
+Index 240:  
+Index 241:  
+Index 242:  
+Index 243:  
+Index 244:  
+Index 245:  
+Index 246:  
+Index 247:  
+Index 248:  
+Index 249:  
+Index 250:  
+Index 251:  
+Index 252:  
+Index 253:  
+Index 254:  
+Index 255:  
+Index 256:  
+Index 257:  
+Index 258:  
+Index 259:  
+Index 260:  
+Index 261:  
+Index 262:  
+Index 263:  
+Index 264:  
+Index 265:  
+Index 266:  
+Index 267:  
+Index 268:  
+Index 269:  
+Index 270:  Bak Bak 
+Index 271:  
+Index 272:  
+Index 273:  
+Index 274:  Bek Bek 
+Index 275:  
+Index 276:  
+Index 277:  
+Index 278:  
+Index 279:  
+Index 280:  Maj 
+Index 281:  
+Index 282:  
+Index 283:  
+Index 284:  
+Index 285:  
+Index 286:  
+Index 287:  
+Index 288:  
+Index 289:  
+Index 290:  
+Index 291:  
+Index 292:  
+Index 293:  Muc 
+Index 294:  Wan 
+Index 295:  
+Index 296:  Lis Lis 
+Index 297:  
+Index 298:  
+Index 299:  But 
+Index 300:  
+Index 301:  Kos Kos 
+Index 302:  
+Index 303:  
+Index 304:  
+Index 305:  
+Index 306:  Waz Waz 
+Index 307:  
+Index 308:  
+Index 309:  Mus 
+Index 310:  
+Index 311:  
+Index 312:  
+Index 313:  
+Index 314:  
+Index 315:  
+Index 316:  
+Index 317:  
+Index 318:  Rys 
+Index 319:  
+Index 320:  
+Index 321:  
+Index 322:  
+Index 323:  
+Index 324:  
+Index 325:  
+Index 326:  
+Index 327:  
+Index 328:  
+Index 329:  
+Index 330:  
+Index 331:  
+Index 332:  
+Index 333:  
+Index 334:  
+Index 335:  
+Index 336:  
+Index 337:  
+Index 338:  
+Index 339:  
+Index 340:  
+Index 341:  
+Index 342:  
+Index 343:  
+Index 344:  
+Index 345:  
+Index 346:  
+Index 347:  
+Index 348:  
+Index 349:  
+Index 350:  
+Index 351:  
+Index 352:  
+Index 353:  
+Index 354:  
+Index 355:  
+Index 356:  
+Index 357:  
+Index 358:  
+Index 359:  
+Index 360:  
+Index 361:  
+Index 362:  
+Index 363:  
+Index 364:  
+Index 365:  
+Index 366:  Baja Baja 
+Index 367:  Baka Baka 
+Index 368:  
+Index 369:  
+Index 370:  
+Index 371:  Blad 
+Index 372:  
+Index 373:  
+Index 374:  
+Index 375:  
+Index 376:  Rada 
+Index 377:  
+Index 378:  
+Index 379:  Beki Beki 
+Index 380:  
+Index 381:  
+Index 382:  Duda Duda Duda Zaba Duda 
+Index 383:  Mela 
+Index 384:  Bacz Bacz Kasa 
+Index 385:  Piec Kata 
+Index 386:  
+Index 387:  Fell 
+Index 388:  Kawa 
+Index 389:  Mlak 
+Index 390:  
+Index 391:  
+Index 392:  Boni 
+Index 393:  Kita 
+Index 394:  Mewa Kral Kral 
+Index 395:  
+Index 396:  
+Index 397:  Kula Wenc Kula 
+Index 398:  Ryba 
+Index 399:  Stec Wina Ksel 
+Index 400:  Alot Alot Aron Aron Wawa 
+Index 401:  
+Index 402:  
+Index 403:  Oles Spek 
+Index 404:  
+Index 405:  
+Index 406:  
+Index 407:  
+Index 408:  Krol Krol Krol Bryk Krol Krol Krol Krol Krol Krol 
+Index 409:  
+Index 410:  
+Index 411:  
+Index 412:  Knot Knot 
+Index 413:  Kruk 
+Index 414:  Inny Krul Inny 
+Index 415:  
+Index 416:  
+Index 417:  Lewy 
+Index 418:  Sliz Sliz 
+Index 419:  
+Index 420:  Pyza Pyza 
+Index 421:  
+Index 422:  
+Index 423:  
+Index 424:  
+Index 425:  
+Index 426:  
+Index 427:  
+Index 428:  
+Index 429:  Kusz 
+Index 430:  Luty 
+Index 431:  
+Index 432:  
+Index 433:  
+Index 434:  
+Index 435:  
+Index 436:  
+Index 437:  
+Index 438:  
+Index 439:  
+Index 440:  
+Index 441:  
+Index 442:  
+Index 443:  
+Index 444:  
+Index 445:  
+Index 446:  
+Index 447:  
+Index 448:  
+Index 449:  
+Index 450:  
+Index 451:  
+Index 452:  
+Index 453:  
+Index 454:  
+Index 455:  
+Index 456:  
+Index 457:  
+Index 458:  
+Index 459:  
+Index 460:  
+Index 461:  
+Index 462:  
+Index 463:  
+Index 464:  
+Index 465:  
+Index 466:  Bajda Bajda 
+Index 467:  
+Index 468:  Hebda 
+Index 469:  
+Index 470:  
+Index 471:  
+Index 472:  Hajda 
+Index 473:  
+Index 474:  Magda Magda 
+Index 475:  
+Index 476:  Beben Beben 
+Index 477:  
+Index 478:  
+Index 479:  Kadej Kadej 
+Index 480:  Banan Banan 
+Index 481:  Basaj Rabka 
+Index 482:  
+Index 483:  Kabat Kabat 
+Index 484:  Bajer Kalka Bajer Raban Baran Baran Bajer Majka Baran Bajer Beblo 
+Index 485:  Banas Kaber Kaber Banas Banas 
+Index 486:  Gibki Babul Jader Jader Carek Carek Babul 
+Index 487:  Golda Golda 
+Index 488:  Majek Manka 
+Index 489:  Baras Zajac Zajac Zajac Bugaj Baras 
+Index 490:  Basik Basik Jasak 
+Index 491:  Jonca Wanad Wanad Lubec 
+Index 492:  Balon Kojec 
+Index 493:  Dudek Bawar Bujak Dudek Dudek Dudek Dudek Dudek Bawar Dudek 
+Index 494:  Malik Cisna Bajor Bajor Socha 
+Index 495:  Cisek 
+Index 496:  Gorec Gorec Krema Mieta Mieta 
+Index 497:  Rodak Bialy 
+Index 498:  Boran Boran Milek Milek 
+Index 499:  Linek Borek Aniol Telma Borek Aniol Borek 
+Index 500:  Gates Gates 
+Index 501:  Rodek 
+Index 502:  Faron Warka 
+Index 503:  Polak Bitwa Polak Polak 
+Index 504:  Bator Hardy Hardy Bator 
+Index 505:  Rybak Koska 
+Index 506:  Rolla 
+Index 507:  Piglo Komik 
+Index 508:  Lewik Bodny 
+Index 509:  Tkacz Chudy Kamyk Maron Sarre Sasim Katon Kamyk 
+Index 510:  Kowal Beryl Beryl Kowal 
+Index 511:  Witaj Socko Socko Draus 
+Index 512:  Sliwa Nowak Nowak Nowak Nowak Nowak Nowak Nowak 
+Index 513:  
+Index 514:  Garus 
+Index 515:  Kusek Suder Groza 
+Index 516:  
+Index 517:  Dyzma 
+Index 518:  Lowik 
+Index 519:  Dusza 
+Index 520:  Witas Tutaj Tutaj Nowik Rorat Rorat 
+Index 521:  
+Index 522:  
+Index 523:  Turek Linus Turek Linus 
+Index 524:  Kupis Kupis 
+Index 525:  Wosik 
+Index 526:  
+Index 527:  Gorny Konny 
+Index 528:  
+Index 529:  
+Index 530:  
+Index 531:  
+Index 532:  
+Index 533:  
+Index 534:  
+Index 535:  Pytko 
+Index 536:  
+Index 537:  Wolny 
+Index 538:  
+Index 539:  
+Index 540:  
+Index 541:  
+Index 542:  
+Index 543:  
+Index 544:  
+Index 545:  Mrusz 
+Index 546:  Sznur 
+Index 547:  Dyszy 
+Index 548:  
+Index 549:  
+Index 550:  
+Index 551:  Wozny zydek zydek 
+Index 552:  
+Index 553:  
+Index 554:  
+Index 555:  zylka 
+Index 556:  
+Index 557:  
+Index 558:  
+Index 559:  
+Index 560:  
+Index 561:  
+Index 562:  
+Index 563:  
+Index 564:  
+Index 565:  
+Index 566:  
+Index 567:  Chebda 
+Index 568:  
+Index 569:  
+Index 570:  
+Index 571:  
+Index 572:  Balica Balica 
+Index 573:  Banach Bajdak Bajdak 
+Index 574:  
+Index 575:  Badera Badera 
+Index 576:  
+Index 577:  Bachen 
+Index 578:  
+Index 579:  Adamek 
+Index 580:  Halama 
+Index 581:  
+Index 582:  
+Index 583:  Babula Babula 
+Index 584:  Bialek Bielak Bialek Bielak 
+Index 585:  Dubala Fichna Dubala 
+Index 586:  Biegar Biegar 
+Index 587:  BartoS Babicz 
+Index 588:  Cebula Cebula 
+Index 589:  
+Index 590:  
+Index 591:  Badura Badura Arecki Arecki 
+Index 592:  Baczek Baczek Katana Kmicic Katana Chwala Chwala Kmicic 
+Index 593:  
+Index 594:  Mateja Kaleta Kaleta 
+Index 595:  Jasiak Jasiak 
+Index 596:  Blocki Blocki Bielaw Cichon 
+Index 597:  
+Index 598:  Blasik Blasik Jochem 
+Index 599:  
+Index 600:  Bansik Bansik 
+Index 601:  Klimka 
+Index 602:  Bapski 
+Index 603:  Adamus Baryla Adamus Baryla Chomik 
+Index 604:  Chylak Barski Gierat Barski Chylak 
+Index 605:  Janota 
+Index 606:  Kratka Knapik Cupial Knapik Piatek Piatek 
+Index 607:  
+Index 608:  Bawicz Binski Pawlak Binski Helski Alotek Pawlak Sareta Hentel Pawlak Glauer Pawlak Pawlak Alotek Bawicz Pawlak Helski Pawlak Pawlak Melnik Melnik 
+Index 609:  Papier Papier 
+Index 610:  Misiek 
+Index 611:  
+Index 612:  Buczek Buczek 
+Index 613:  Sekula Sztaba Sekula 
+Index 614:  Wlodek 
+Index 615:  Smolka Wojcik Konska Wojcik 
+Index 616:  Kitlas Pawlik Byczek Pawlik Kaluza Milion Kitlas Milion 
+Index 617:  Kinski Kinski 
+Index 618:  Kaczor Kaczor Holski Kaczor 
+Index 619:  Szojda Wrobel 
+Index 620:  Lipski Pilski Lipski Pilski 
+Index 621:  Andrus Kwolek Boruta Kwolek 
+Index 622:  Paszek Gawron Krason Kardys 
+Index 623:  Gorski Gorski Gorski Myrcik Kantor 
+Index 624:  Szwaja Suchon 
+Index 625:  Batory Magosz Wcislo Batory Bartus 
+Index 626:  Piwnik Piwnik 
+Index 627:  Kaktus Kaktus Brylok 
+Index 628:  Küttner Küttner 
+Index 629:  Grzmil Grzmil 
+Index 630:  
+Index 631:  Rokpol Rokpol 
+Index 632:  Blotny Salezy Wojtas Wolicz Wojtas Blotny Wolicz Salezy Mrozek 
+Index 633:  Wolski Musiol Wolski 
+Index 634:  
+Index 635:  Prokop Nawrot Nawrot Prokop 
+Index 636:  Wtorek Krosno Szybki 
+Index 637:  Piorun Drozdz Drozdz 
+Index 638:  zogala Wawron 
+Index 639:  
+Index 640:  Rurski Rurski 
+Index 641:  Tomkow Sularz Tomkow 
+Index 642:  Orczyk 
+Index 643:  Porwol 
+Index 644:  
+Index 645:  Zmelty 
+Index 646:  
+Index 647:  
+Index 648:  Rokosz Rokosz 
+Index 649:  
+Index 650:  
+Index 651:  
+Index 652:  
+Index 653:  
+Index 654:  
+Index 655:  
+Index 656:  Kotusz 
+Index 657:  
+Index 658:  
+Index 659:  
+Index 660:  Myszor 
+Index 661:  
+Index 662:  
+Index 663:  
+Index 664:  
+Index 665:  
+Index 666:  
+Index 667:  
+Index 668:  zwirek 
+Index 669:  
+Index 670:  
+Index 671:  
+Index 672:  
+Index 673:  Babecki 
+Index 674:  
+Index 675:  
+Index 676:  Adamiec Adamiec 
+Index 677:  
+Index 678:  
+Index 679:  
+Index 680:  Bebanek Bebanek 
+Index 681:  
+Index 682:  
+Index 683:  
+Index 684:  Bebenek Bebenek 
+Index 685:  Bandera Bandera 
+Index 686:  
+Index 687:  Bakucha Balicki Balicki Bakucha 
+Index 688:  
+Index 689:  
+Index 690:  
+Index 691:  Alancki 
+Index 692:  Baranek Baranek 
+Index 693:  Bielawa 
+Index 694:  Bargiel Bargiel 
+Index 695:  Bieniek 
+Index 696:  Kalicki Barabuk Kalicki 
+Index 697:  Banasik Banasik Latacki 
+Index 698:  Adamski Adamski Adamski Adamski Adamski Adamski Adamski Adamski Adamski Adamski Adamski Adamski Adamski Adamski Adamski Majcher Majcher Adamski 
+Index 699:  
+Index 700:  Kildare Cieslak 
+Index 701:  Kanarek Kanarek 
+Index 702:  
+Index 703:  Chwalek Chwalek 
+Index 704:  Dabrowa Chochol Chochol Kandora 
+Index 705:  Camillo Pieniak 
+Index 706:  Bregula Czubala 
+Index 707:  Popanda Kregiel Zalecki Kawicki Kregiel Kawicki 
+Index 708:  Bilskan Gorecki Gorecki Filipek Lichota Filipek Lichota Cieslik Banalow Banalow Cieslik 
+Index 709:  Markiel 
+Index 710:  Krawiec Chlopek Barylka Barylka Dziekan Dziekan Chlopek 
+Index 711:  Gwiazda Mathias Gwiazda 
+Index 712:  Ceglarz 
+Index 713:  Radziej Tomalak Chinski Chinski 
+Index 714:  Medrzec 
+Index 715:  Soplica Matczak Matczak Soplica Bartnik Sawicki Sawicki Sawicki Sawicki Sawicki Sawicki Sawicki Sawicki Bartnik Sawicki 
+Index 716:  Paterek Antczak Kielski Paterek Antczak Harazim Kielski 
+Index 717:  Sobczak Walczak Sobczak Kobylka Walczak Walczak Walczak Walczak Orlicki Orlicki Sobczak Walczak Walczak Walczak Sobczak Sobczak Walczak Walczak 
+Index 718:  
+Index 719:  Janosik 
+Index 720:  Kulasek Serocki Jaromin Jaromin Jaromin 
+Index 721:  Konczak Tomalik Konczak 
+Index 722:  Kowalik Banczyk 
+Index 723:  Holewik Holewik 
+Index 724:  Nowicki Nowicki Nowicki Siemion lasecka Botwina Nowicki Nowicki Nowicki 
+Index 725:  
+Index 726:  Barczyk Barczyk Wiejski Iwanski Iwanski 
+Index 727:  Serwata 
+Index 728:  Pietras 
+Index 729:  Kupczak 
+Index 730:  Kopycki Mordyan Kopycki Cisasny Wantuch 
+Index 731:  Mroczek 
+Index 732:  
+Index 733:  Witczak 
+Index 734:  
+Index 735:  Kulesza Mazurek Jozwiak Kulesza Barszcz Mazurek Jozwiak Barszcz 
+Index 736:  Dmitruk Kowolik 
+Index 737:  Tkaczyk Tkaczyk 
+Index 738:  Grabysz 
+Index 739:  Zaluski Wozniak Wozniak Wozniak Wozniak Wozniak Wozniak Wozniak Wozniak Wozniak Wozniak Wozniak Zaluski Wozniak Wozniak Wozniak Wozniak 
+Index 740:  Misztal Kuzniar Misztal Kuzniar 
+Index 741:  
+Index 742:  Wypchlo 
+Index 743:  
+Index 744:  Smolarz Dowmont Jonkisz Soprych 
+Index 745:  Wysocki Wysocki Wysocki Wysocki Wysocki Wysocki Wysocki 
+Index 746:  Chorzyk Chorzyk 
+Index 747:  Budzisz Budzisz 
+Index 748:  
+Index 749:  
+Index 750:  
+Index 751:  
+Index 752:  Wojtyra Styczen Wojtyra 
+Index 753:  
+Index 754:  
+Index 755:  
+Index 756:  spiewak 
+Index 757:  Borysow 
+Index 758:  
+Index 759:  
+Index 760:  
+Index 761:  
+Index 762:  Wytrwal 
+Index 763:  Szymura 
+Index 764:  
+Index 765:  Kostosz 
+Index 766:  
+Index 767:  
+Index 768:  
+Index 769:  
+Index 770:  Sztonyk Sztonyk 
+Index 771:  
+Index 772:  
+Index 773:  
+Index 774:  
+Index 775:  
+Index 776:  
+Index 777:  
+Index 778:  
+Index 779:  
+Index 780:  
+Index 781:  Szyszko 
+Index 782:  
+Index 783:  Adamecki 
+Index 784:  Niedbala 
+Index 785:  
+Index 786:  
+Index 787:  
+Index 788:  Kanciala Ciebiera Ciebiera Ciemiega 
+Index 789:  
+Index 790:  
+Index 791:  
+Index 792:  Barbucha Barbucha 
+Index 793:  
+Index 794:  Banasiak Bacalski Michalak Banasiak Bacalski Michalak 
+Index 795:  
+Index 796:  Bednarek Bednarek 
+Index 797:  
+Index 798:  
+Index 799:  
+Index 800:  
+Index 801:  Bialczak Bialczak 
+Index 802:  
+Index 803:  Berakacz Bajinska Berakacz 
+Index 804:  Afganski Afganski 
+Index 805:  
+Index 806:  Galiczak Galiczak 
+Index 807:  Dartcjan Bareczek Bareczek 
+Index 808:  Grodecki Grodecki Bakalarz Basajski 
+Index 809:  Glowacka 
+Index 810:  
+Index 811:  Baranski Baranski 
+Index 812:  
+Index 813:  Felerska Lisiecki 
+Index 814:  
+Index 815:  Banaszek Banaszek Kaminska 
+Index 816:  
+Index 817:  Cichowas Cichowas 
+Index 818:  Machlarz Machlarz Kornacki 
+Index 819:  Balonski Terlecki Wojcicki Balonski Koniecko Terlecki 
+Index 820:  Bawarski Adamczyk Adamczyk Adamczyk Bawarski Basinski Adamczyk Adamczyk Adamczyk Malarski Adamczyk Adamczyk Basinski Zalesiak Adamczyk Adamczyk Adamczyk Adamczyk Zalesiak 
+Index 821:  Kasinska Antoniak Chodyrak Felinski Chodyrak 
+Index 822:  Nawrocka Benedykt Dziedzic Dziedzic Benedykt Lewanska 
+Index 823:  Kaminski Kacprzak Kaminski Kaminski Kacprzak Kaminski Liderski Kaminski 
+Index 824:  
+Index 825:  
+Index 826:  
+Index 827:  Majewski Bakowski Majewski Majewski Majewski Majksner Pilsniak Majewski Majewski Majewski Bakowski 
+Index 828:  Jasinski Jasinski Jasinski Jasinski Bydgoski Balowski Jasinski Balowski Twardoch Jasinski Bydgoski 
+Index 829:  Furmanik Lubaszka Kowalska Lubaszka Jugowiec 
+Index 830:  
+Index 831:  Kludziak Bartosik Urbanski Urbanski Bartosik Lelewicz Sierpien 
+Index 832:  Olendzki Listopad Olendzki 
+Index 833:  Semeniuk Holownia Semeniuk 
+Index 834:  Witebski Jaworska 
+Index 835:  Lipinski Kosinska Kopernik Kopernik Lipinski 
+Index 836:  Sasimski Krynicki Krynicki Figurski Figurski 
+Index 837:  Kowalski Janowicz Kowalski Kowalski Kowalski Kowalski Sadowski Zawadzki Zawadzki Kowalski Kowalski Kowalski Niziolek Sadowski Kowalski Janowicz Tegowska Zawadzki Kowalski Kowalski Kowalski 
+Index 838:  Janowski Janowski Lisinski 
+Index 839:  Boronski Stuchlik Zawodnik Stuchlik Zawodnik Boronski Walewski Broniarz 
+Index 840:  Pigulski Grudzien Pigulski Sekowska 
+Index 841:  Zalewicz Bokowski Zalewicz Bokowski 
+Index 842:  Jaworski Zalewski Jaworski Jaworski Jaworski Zalewski Jaworski Jaworski Jaworski 
+Index 843:  Szczepka Rakowski 
+Index 844:  Katowicz 
+Index 845:  
+Index 846:  Rydawski Mironiuk Rydawski 
+Index 847:  Symanski Symanski Symanski Sikorski Symanski 
+Index 848:  
+Index 849:  Dukowski 
+Index 850:  Hubertus Hubertus smietana 
+Index 851:  
+Index 852:  Piwonski Piwonski 
+Index 853:  
+Index 854:  Gumowski Pszczola Gumowski Krawczyk Pszczola Krawczyk 
+Index 855:  Wrzesien 
+Index 856:  Szumilas 
+Index 857:  
+Index 858:  Kotowicz Malyszko 
+Index 859:  Streziok 
+Index 860:  Szymczak Sycowski Szymczak Sycowski 
+Index 861:  Nosowski Nosowski Sosnierz Sosnierz 
+Index 862:  
+Index 863:  Wypychlo 
+Index 864:  
+Index 865:  
+Index 866:  
+Index 867:  
+Index 868:  
+Index 869:  
+Index 870:  
+Index 871:  Duszczyk Zukowski Duszczyk 
+Index 872:  
+Index 873:  
+Index 874:  Szewczyk Szewczyk 
+Index 875:  
+Index 876:  
+Index 877:  
+Index 878:  
+Index 879:  
+Index 880:  
+Index 881:  
+Index 882:  
+Index 883:  
+Index 884:  
+Index 885:  
+Index 886:  
+Index 887:  
+Index 888:  Adamiecki Adamiecki 
+Index 889:  
+Index 890:  
+Index 891:  
+Index 892:  
+Index 893:  
+Index 894:  
+Index 895:  
+Index 896:  
+Index 897:  
+Index 898:  
+Index 899:  
+Index 900:  
+Index 901:  Adameczek Adameczek 
+Index 902:  
+Index 903:  zukowski 
+Index 904:  
+Index 905:  Domagalik Biegajski Kazanecka Biegajski 
+Index 906:  Chojnacki Chojnacki 
+Index 907:  
+Index 908:  
+Index 909:  
+Index 910:  
+Index 911:  
+Index 912:  Chocholek Chmielacz Chmielacz 
+Index 913:  Checinski 
+Index 914:  Czarnecka Czarnecka Czarnecka Czarnecka 
+Index 915:  
+Index 916:  
+Index 917:  Jablonska Michalski Michalski Adalewski Michalski Michalski Michalski Michalski Michalski Michalski Adalewski Michalski Jablonska Michalski Niedziela Michalski Michalski Michalski Michalski Jablonska 
+Index 918:  Chlopicki Chlopicki 
+Index 919:  
+Index 920:  
+Index 921:  Kaczmarek Kaczmarek 
+Index 922:  Czarnecki Czarnecki Czarnecki Czarnecki Czarnecki Polanicki Czarnecki Polanicki 
+Index 923:  Ratajczak Bielawski Bielawski 
+Index 924:  Radwanska Fastnacht 
+Index 925:  Kacperski Smietanka Jablonski Smietanka Jablonski Jablonski Jablonski Wiercioch Kacperski Siennicki Siennicki Jablonski 
+Index 926:  
+Index 927:  Bladowicz 
+Index 928:  Obornicki Stefanska Obornicki 
+Index 929:  Szalapata 
+Index 930:  
+Index 931:  
+Index 932:  Malborski Abramczyk Abramczyk Bledowski Bledowski Malborski Puchalski 
+Index 933:  Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski 
+Index 934:  Dabrowski Dabrowski Dabrowski Dabrowski Dabrowski Dabrowski Dabrowski Dabrowski Dabrowski Dabrowski 
+Index 935:  Hentelski Kendziora 
+Index 936:  Lechowicz Lechowicz 
+Index 937:  Olesinska Jasiewicz Grabowski Podsiadly Amanowicz Grabowski Amanowicz Jasiewicz Podsiadly Pasternak 
+Index 938:  
+Index 939:  Kowalonek Kowalonek 
+Index 940:  Wiesiolek Wiesiolek 
+Index 941:  Dudzinska Nowakczek 
+Index 942:  Jakubczyk Jakubczyk 
+Index 943:  Wachowicz Anczewski Anczewski Wachowicz 
+Index 944:  
+Index 945:  Binkowski Binkowski Jankowski Jankowski 
+Index 946:  Maslowska Zielinski Zielinski Zielinski Zielinski Zielinski Zielinski Pieczyrak Zielinski 
+Index 947:  Wieczorek Wieczorek Wieczorek Wieczorek Wieczorek Wieczorek Wieczorek Wieczorek 
+Index 948:  Bolkowicz Misiewicz Bolkowicz 
+Index 949:  Nisiewicz Bartoszek Dudzinski Bolkowski Bartoszek Nisiewicz Bolkowski Dudzinski 
+Index 950:  Krakowski Krakowski 
+Index 951:  Klosinski Bonkowski Bonkowski Klosinski 
+Index 952:  Persinski Persinski 
+Index 953:  Pawlowska 
+Index 954:  Antkowicz Karpowicz Antkowicz Karpowicz 
+Index 955:  Borkowski Borkowski Borkowski Mokrzycka Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski 
+Index 956:  
+Index 957:  Aronowski Aronowski 
+Index 958:  
+Index 959:  Kowalczyk Kowalczyk Kowalczyk Kowalczyk Kowalczyk Kowalczyk Kowalczyk Rosiewicz Kowalczyk Rosiewicz Kowalczyk 
+Index 960:  Ogonowski Ogonowski 
+Index 961:  Pawlowski Pawlowski Pawlowski Pawlowski Pawlowski Pawlowski Pawlowski Pawlowski 
+Index 962:  
+Index 963:  Skoczylas 
+Index 964:  Skrzypiec 
+Index 965:  Kozlowska 
+Index 966:  Dziwulski Dziwulski 
+Index 967:  Zuchowski 
+Index 968:  
+Index 969:  Szymanski Szymanski 
+Index 970:  Zychowicz Kostrzewa Zychowicz 
+Index 971:  Olszewski Olszewski Olszewski Olszewski 
+Index 972:  Witkowski Witkowski Witkowski 
+Index 973:  Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski 
+Index 974:  
+Index 975:  
+Index 976:  
+Index 977:  
+Index 978:  
+Index 979:  Rutkowski Rutkowski Rutkowski Rutkowski Rutkowski Rutkowski Rutkowski Rutkowski Rutkowski Rutkowski Rutkowski 
+Index 980:  
+Index 981:  Ostrowski Ostrowski Mrozowski Ostrowski Ostrowski Ostrowski Ostrowski Ostrowski Ostrowski Ostrowski Ostrowski Ostrowski Ostrowski Mrozowski 
+Index 982:  
+Index 983:  
+Index 984:  Szoltysek 
+Index 985:  
+Index 986:  
+Index 987:  
+Index 988:  Szumowski Szumowski 
+Index 989:  
+Index 990:  
+Index 991:  
+Index 992:  
+Index 993:  
+Index 994:  
+Index 995:  
+Index 996:  Tuszynski Tuszynski 
+Index 997:  
+Index 998:  
+Index 999:  zuchowski 
+Index 1000:  
+Index 1001:  
+Index 1002:  
+Index 1003:  
+Index 1004:  
+Index 1005:  
+Index 1006:  
+Index 1007:  
+Index 1008:  
+Index 1009:  
+Index 1010:  
+Index 1011:  
+Index 1012:  
+Index 1013:  Babalewski Babalewski 
+Index 1014:  
+Index 1015:  
+Index 1016:  
+Index 1017:  
+Index 1018:  
+Index 1019:  
+Index 1020:  
+Index 1021:  
+Index 1022:  Anarchista 
+Index 1023:  
+Index 1024:  
+Index 1025:  
+Index 1026:  
+Index 1027:  Celeborski 
+Index 1028:  
+Index 1029:  KieSlowski 
+Index 1030:  Celejewski Celejewski Borowiecka 
+Index 1031:  
+Index 1032:  
+Index 1033:  
+Index 1034:  
+Index 1035:  
+Index 1036:  
+Index 1037:  Bednarczyk Bananowski Bednarczyk Chwalinski Ponichtera Chwalinski Bananowski 
+Index 1038:  
+Index 1039:  
+Index 1040:  Bialkowski Bialkowski 
+Index 1041:  Baranowski Baranowski 
+Index 1042:  Chochowski Biankowski Chochowski Biankowski Bujakowska Prandzioch 
+Index 1043:  
+Index 1044:  
+Index 1045:  
+Index 1046:  Bienkowski Bienkowski 
+Index 1047:  Bodnarczyk Bodnarczyk Kobylinska 
+Index 1048:  Wieckowska 
+Index 1049:  Blazejczyk Blazejczyk 
+Index 1050:  
+Index 1051:  Wlochinski 
+Index 1052:  Kalinowski Kalinowski Kalinowski Kalinowski Kalinowski Kalinowski Kalinowski Kalinowski 
+Index 1053:  Czerwionka 
+Index 1054:  Malinowski Malinowski Szczepanek 
+Index 1055:  Kucharczyk 
+Index 1056:  Czajkowski Banaszczyk Banaszczyk Kowalewicz Kowalewicz Czajkowski 
+Index 1057:  Bentkowski Bentkowski 
+Index 1058:  
+Index 1059:  Dutkiewicz 
+Index 1060:  Batorowicz Pienkowski Pienkowski Batorowicz 
+Index 1061:  Graczynski Graczynski Kieslowski 
+Index 1062:  Wroclawski 
+Index 1063:  
+Index 1064:  Zambrowicz Zambrowicz 
+Index 1065:  Czerwinski Czerwinski Wroblewski Wroblewski Czerwinski Czerwinski Czerwinski Czerwinski 
+Index 1066:  Nieszporek 
+Index 1067:  Krzanowska Bzinkowski Borutawski Bzinkowski Borutawski Borutawski 
+Index 1068:  Antonowicz Antonowicz Buczkowski Buczkowski 
+Index 1069:  Wisniewski Nowakowski Nowakowski Wisniewski Nowakowski Wisniewski Wisniewski Nowakowski Wisniewski Nowakowski Wisniewski Krzesinski Kozakowski Krzesinski Wisniewski Kozakowski Nowakowski Wisniewski Wisniewski Wisniewski 
+Index 1070:  Grzeszczak Grzeszczak 
+Index 1071:  Rynkiewicz Wesolowska Wesolowska 
+Index 1072:  
+Index 1073:  
+Index 1074:  
+Index 1075:  
+Index 1076:  
+Index 1077:  Sokolowski Sokolowski Sokolowski Sokolowski Sokolowski Sokolowski Sokolowski Sokolowski Zakrzewski Sokolowski Sokolowski 
+Index 1078:  Warszawski Ziolkowski Warszawski 
+Index 1079:  
+Index 1080:  
+Index 1081:  Krystyniak Krystyniak 
+Index 1082:  
+Index 1083:  Piotrowski Piotrowski Piotrowski Piotrowski Piotrowski Piotrowski Piotrowski 
+Index 1084:  Mazurowski Skrzypulec Mazurowski Mazurowski 
+Index 1085:  
+Index 1086:  Otwinowski Otwinowski 
+Index 1087:  
+Index 1088:  
+Index 1089:  
+Index 1090:  
+Index 1091:  Styczynska Przybylski Przybylski 
+Index 1092:  
+Index 1093:  
+Index 1094:  
+Index 1095:  
+Index 1096:  
+Index 1097:  
+Index 1098:  
+Index 1099:  
+Index 1100:  
+Index 1101:  
+Index 1102:  
+Index 1103:  
+Index 1104:  
+Index 1105:  
+Index 1106:  
+Index 1107:  
+Index 1108:  
+Index 1109:  
+Index 1110:  
+Index 1111:  
+Index 1112:  
+Index 1113:  
+Index 1114:  
+Index 1115:  
+Index 1116:  
+Index 1117:  
+Index 1118:  
+Index 1119:  
+Index 1120:  
+Index 1121:  
+Index 1122:  
+Index 1123:  
+Index 1124:  
+Index 1125:  
+Index 1126:  
+Index 1127:  
+Index 1128:  Banakiewicz Banakiewicz 
+Index 1129:  Banachowicz Banachowicz 
+Index 1130:  
+Index 1131:  
+Index 1132:  Maciejewski Maciejewski Maciejewski Maciejewski Maciejewski Maciejewski Maciejewski Maciejewski Maciejewski Maciejewski Maciejewski 
+Index 1133:  
+Index 1134:  
+Index 1135:  Adamowiczek Adamowiczek 
+Index 1136:  Banasiewicz Banasiewicz 
+Index 1137:  
+Index 1138:  Magielewski 
+Index 1139:  
+Index 1140:  
+Index 1141:  Chmielewski Chmielewski Chmielewski 
+Index 1142:  Balcerowski Grabalowski Balcerowski 
+Index 1143:  Andrzejczak Andrzejczak 
+Index 1144:  
+Index 1145:  Kildarewicz Barcikowski Barcikowski 
+Index 1146:  
+Index 1147:  
+Index 1148:  
+Index 1149:  
+Index 1150:  
+Index 1151:  Chmielowski Chmielowski 
+Index 1152:  
+Index 1153:  Majchrowicz Majchrowicz 
+Index 1154:  Mysliwiecka 
+Index 1155:  Badurzewska Badurzewska Kisielewicz 
+Index 1156:  
+Index 1157:  Sienkiewicz Sienkiewicz 
+Index 1158:  
+Index 1159:  
+Index 1160:  Lewandowski Kwasniewska Lewandowski 
+Index 1161:  
+Index 1162:  
+Index 1163:  Pazdziernik 
+Index 1164:  
+Index 1165:  
+Index 1166:  
+Index 1167:  
+Index 1168:  Jedruszczak Jedruszczak 
+Index 1169:  Ludziejewsk 
+Index 1170:  Bronikowski 
+Index 1171:  
+Index 1172:  
+Index 1173:  Szczepanski Szczepanski Szczepanski Szczepanski Szczepanski Augustyniak Szczepanski Szczepanski Szczepanski Szczepanski Szczepanski Szczepanski Szczepanski Szczepanski Augustyniak Szczepanski Szczepanski Szczepanski 
+Index 1174:  
+Index 1175:  
+Index 1176:  Anyzkiewicz Kwiatkowski Kwiatkowski Kwiatkowski Kwiatkowski Prasilowski Kwiatkowski Poniatowski Kwiatkowski Kwiatkowski 
+Index 1177:  Skretkowska 
+Index 1178:  
+Index 1179:  
+Index 1180:  
+Index 1181:  
+Index 1182:  
+Index 1183:  
+Index 1184:  
+Index 1185:  Tomaszewski Tomaszewski Tomaszewski Tomaszewski Tomaszewski Tomaszewski Tomaszewski 
+Index 1186:  Skoczkowski Skoczkowski 
+Index 1187:  
+Index 1188:  
+Index 1189:  
+Index 1190:  Augustowski Slomczynski Slomczynski Slomczynski Augustowski 
+Index 1191:  
+Index 1192:  
+Index 1193:  
+Index 1194:  
+Index 1195:  
+Index 1196:  
+Index 1197:  
+Index 1198:  
+Index 1199:  Reszczynski Reszczynski 
+Index 1200:  
+Index 1201:  
+Index 1202:  
+Index 1203:  
+Index 1204:  
+Index 1205:  
+Index 1206:  
+Index 1207:  
+Index 1208:  
+Index 1209:  Zwierzynski 
+Index 1210:  
+Index 1211:  
+Index 1212:  
+Index 1213:  
+Index 1214:  
+Index 1215:  
+Index 1216:  
+Index 1217:  
+Index 1218:  
+Index 1219:  
+Index 1220:  
+Index 1221:  
+Index 1222:  
+Index 1223:  
+Index 1224:  
+Index 1225:  
+Index 1226:  
+Index 1227:  
+Index 1228:  
+Index 1229:  
+Index 1230:  
+Index 1231:  
+Index 1232:  
+Index 1233:  Balickiewicz Balickiewicz 
+Index 1234:  
+Index 1235:  
+Index 1236:  
+Index 1237:  
+Index 1238:  
+Index 1239:  
+Index 1240:  
+Index 1241:  
+Index 1242:  Barankiewicz Barankiewicz 
+Index 1243:  
+Index 1244:  
+Index 1245:  
+Index 1246:  
+Index 1247:  Matlachowska Matlachowska 
+Index 1248:  
+Index 1249:  
+Index 1250:  Hajdukiewicz 
+Index 1251:  
+Index 1252:  
+Index 1253:  Bialosiewicz 
+Index 1254:  Banasikowski Banasikowski 
+Index 1255:  
+Index 1256:  
+Index 1257:  
+Index 1258:  Dobrosielski 
+Index 1259:  
+Index 1260:  
+Index 1261:  
+Index 1262:  
+Index 1263:  
+Index 1264:  Barylkiewicz Barylkiewicz 
+Index 1265:  Andrzejewski Andrzejewski 
+Index 1266:  
+Index 1267:  
+Index 1268:  
+Index 1269:  
+Index 1270:  
+Index 1271:  Krolikiewicz 
+Index 1272:  Nieweglowski Nieweglowski 
+Index 1273:  
+Index 1274:  Ludziejewski 
+Index 1275:  
+Index 1276:  
+Index 1277:  
+Index 1278:  
+Index 1279:  
+Index 1280:  
+Index 1281:  
+Index 1282:  Zazemblowski Zazemblowski 
+Index 1283:  
+Index 1284:  
+Index 1285:  Mazurkiewicz Korzeniewski 
+Index 1286:  
+Index 1287:  Bartoszewicz Bartoszewicz 
+Index 1288:  Bartoszewski 
+Index 1289:  
+Index 1290:  
+Index 1291:  Szczygielski Szczygielski 
+Index 1292:  Gliszczynska 
+Index 1293:  Wrzesniewska 
+Index 1294:  
+Index 1295:  Staniszewski 
+Index 1296:  
+Index 1297:  
+Index 1298:  
+Index 1299:  
+Index 1300:  
+Index 1301:  
+Index 1302:  
+Index 1303:  
+Index 1304:  
+Index 1305:  
+Index 1306:  Muraszkowski Muraszkowski 
+Index 1307:  
+Index 1308:  
+Index 1309:  
+Index 1310:  
+Index 1311:  
+Index 1312:  
+Index 1313:  
+Index 1314:  
+Index 1315:  
+Index 1316:  
+Index 1317:  
+Index 1318:  
+Index 1319:  
+Index 1320:  
+Index 1321:  
+Index 1322:  
+Index 1323:  
+Index 1324:  
+Index 1325:  
+Index 1326:  
+Index 1327:  
+Index 1328:  
+Index 1329:  
+Index 1330:  
+Index 1331:  
+Index 1332:  
+Index 1333:  
+Index 1334:  
+Index 1335:  
+Index 1336:  
+Index 1337:  
+Index 1338:  
+Index 1339:  
+Index 1340:  
+Index 1341:  
+Index 1342:  
+Index 1343:  
+Index 1344:  
+Index 1345:  
+Index 1346:  
+Index 1347:  
+Index 1348:  
+Index 1349:  
+Index 1350:  
+Index 1351:  
+Index 1352:  
+Index 1353:  
+Index 1354:  
+Index 1355:  
+Index 1356:  
+Index 1357:  
+Index 1358:  
+Index 1359:  
+Index 1360:  
+Index 1361:  Wojciechowska 
+Index 1362:  
+Index 1363:  
+Index 1364:  
+Index 1365:  Banaszkiewicz Banaszkiewicz 
+Index 1366:  
+Index 1367:  
+Index 1368:  
+Index 1369:  Wojciechowski Wojciechowski Wojciechowski Wojciechowski Wojciechowski Wojciechowski Wojciechowski 
+Index 1370:  
+Index 1371:  
+Index 1372:  
+Index 1373:  
+Index 1374:  
+Index 1375:  
+Index 1376:  
+Index 1377:  
+Index 1378:  
+Index 1379:  
+Index 1380:  
+Index 1381:  
+Index 1382:  
+Index 1383:  Frymarkiewicz 
+Index 1384:  
+Index 1385:  
+Index 1386:  
+Index 1387:  
+Index 1388:  
+Index 1389:  
+Index 1390:  
+Index 1391:  
+Index 1392:  
+Index 1393:  
+Index 1394:  Augustyneczek Augustyneczek 
+Index 1395:  
+Index 1396:  
+Index 1397:  
+Index 1398:  
+Index 1399:  
+Index 1400:  
+Index 1401:  
+Index 1402:  
+Index 1403:  
+Index 1404:  
+Index 1405:  
+Index 1406:  
+Index 1407:  
+Index 1408:  
+Index 1409:  
+Index 1410:  
+Index 1411:  
+Index 1412:  
+Index 1413:  
+Index 1414:  
+Index 1415:  
+Index 1416:  
+Index 1417:  
+Index 1418:  
+Index 1419:  
+Index 1420:  
+Index 1421:  
+Index 1422:  
+Index 1423:  
+Index 1424:  
+Index 1425:  
+Index 1426:  Powietrzynski 
+Index 1427:  
+Index 1428:  
+Index 1429:  
+Index 1430:  
+Index 1431:  
+Index 1432:  
+Index 1433:  
+Index 1434:  
+Index 1435:  
+Index 1436:  
+Index 1437:  
+Index 1438:  
+Index 1439:  
+Index 1440:  
+Index 1441:  
+Index 1442:  
+Index 1443:  
+Index 1444:  
+Index 1445:  
+Index 1446:  
+Index 1447:  
+Index 1448:  
+Index 1449:  
+Index 1450:  
+Index 1451:  
+Index 1452:  
+Index 1453:  
+Index 1454:  
+Index 1455:  
+Index 1456:  
+Index 1457:  
+Index 1458:  
+Index 1459:  
+Index 1460:  
+Index 1461:  
+Index 1462:  
+Index 1463:  
+Index 1464:  
+Index 1465:  
+Index 1466:  
+Index 1467:  
+Index 1468:  
+Index 1469:  
