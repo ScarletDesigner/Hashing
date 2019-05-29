@@ -73,7 +73,8 @@ public:
 		{
 			vector<string> currentChain;
 			currentChain = database[index];
-			if(currentChain.empty() == false)
+			bool chainIsNotEmpty = currentChain.back().empty() == false;
+			if(chainIsNotEmpty)
 			{
 				out<<"Index "<<index<<": ";
 				for(int j=0; j<currentChain.size(); j++)
