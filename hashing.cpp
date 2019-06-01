@@ -88,9 +88,7 @@ protected:
 			currentChain = database[index];
 			
 			if(chainIsNotEmpty())
-			{
 				importChainToTextFile();
-			}
 		}
 		out.close();
 	}
@@ -107,9 +105,8 @@ private:
 	{
 		out<<"Index "<<index<<": ";
 		for(int j = 0; j < currentChain.size(); j++)
-		{
 			out << currentChain[j] << " ";
-		}
+			
 		out<<endl;
 	}
 };
@@ -150,10 +147,9 @@ private:
 	bool isInDatabase(string answer)
 	{
 		for(int i=0; i<chainLength; i++)
-		{
 			if(isInCurrentChain(i))
 				return true;
-		}
+		
 		return false;
 	}
 	
