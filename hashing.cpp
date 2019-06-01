@@ -3,16 +3,15 @@
 #include <vector>
 using namespace std;
 
-class Hashing{
-	int numberOfWords;
+class FileLoader {
+	fstream file;
+
+protected:
 	vector<string> words;
-	vector<vector<string> > database;
-	string currentWord;
 	
-public:
 	void loadFile(string fileName)
 	{
-		fstream file(fileName.c_str());
+		file.open(fileName.c_str());
 		string line;
 	
 		while(file)
@@ -21,8 +20,16 @@ public:
 			words.push_back(line);
 		}
 	}
+};
+
+class DatabaseCreator: public FileLoader {
+	string currentWord;
 	
-	void fillDatabase()
+protected:
+	int numberOfWords;
+	vector<vector<string> > database;
+	
+	void createDatabase()
 	{
 		numberOfWords = words.size();
 		makeEmptyDatabase();
@@ -34,16 +41,7 @@ public:
 			int lengthOfWord = currentWord.size();
 			string word = words[i];
 			database[index].push_back(word);
-			
 		}
-	}
-	
-	void makeEmptyDatabase()
-	{
-		vector<string> empty;
-		empty.push_back("");
-		for(int i=0; i<numberOfWords; i++)
-			database.push_back(empty);
 	}
 	
 	int getIndex(string currentWord)
@@ -53,6 +51,15 @@ public:
 		return index;
 	}
 	
+private:
+	void makeEmptyDatabase()
+	{
+		vector<string> empty;
+		empty.push_back("");
+		for(int i=0; i<numberOfWords; i++)
+			database.push_back(empty);
+	}
+
 	int sumASCI(string currentWord)
 	{
 		int sumOfASCI = 0;
@@ -64,62 +71,106 @@ public:
 		}
 		return sumOfASCI;
 	}
-	
+};
+
+class DatabaseTextFileCreator: virtual public DatabaseCreator {
+	vector<string> currentChain;
+	fstream out;
+	int index;
+
+protected:
 	void createDatabaseFile()
 	{
-		fstream out("database.txt", ios::out);
+		out.open("database.txt", ios::out);
 
-		for(int index=0; index<numberOfWords; index++)
+		for(index = 0; index < numberOfWords; index++)
 		{
-			vector<string> currentChain;
 			currentChain = database[index];
-			bool chainIsNotEmpty = currentChain.back().empty() == false;
-			if(chainIsNotEmpty)
-			{
-				out<<"Index "<<index<<": ";
-				for(int j=0; j<currentChain.size(); j++)
-				{
-					out << currentChain[j] << " ";
-				}
-				out<<endl;
-			}
 			
+			if(chainIsNotEmpty())
+			{
+				importChainToTextFile();
+			}
 		}
 		out.close();
 	}
 	
+private:
+	bool chainIsNotEmpty()
+	{
+		if(currentChain.back().empty() == false)
+			return true;
+		return false;
+	}
+	
+	void importChainToTextFile()
+	{
+		out<<"Index "<<index<<": ";
+		for(int j = 0; j < currentChain.size(); j++)
+		{
+			out << currentChain[j] << " ";
+		}
+		out<<endl;
+	}
+};
+
+class Hashing: virtual public DatabaseCreator, DatabaseTextFileCreator {
+	int chainLength;
+	vector<string> currentChain;
+	int index;
+	string answer;
+	
+public:
+	Hashing(string fileName)
+	{
+		loadFile(fileName);
+		createDatabase();
+		createDatabaseFile();
+	}
+	
 	void find(string answer)
 	{
-		cout<<"Type a word to find in database: "<<endl;
-		cout<<"You typed "<<answer<<endl;
-		int lengthOfWord = answer.size();
-		int index = getIndex(answer);
-		vector<string> currentChain = database[index];
-		int chainLength = currentChain.size();
+		this -> answer = answer;
+		index = getIndex(answer);
+		currentChain = database[index];
+		chainLength = currentChain.size();
+		
+		cout<<"Finding "<<answer<<" in database"<<endl;
 		
 		if(currentChain.empty())
 			cout<<"Not found in database"<<endl;
 		
-		for(int i=0; i<chainLength; i++)
-		{
-			if(currentChain[i] == answer)
-			{
-				cout<<"Your word has index "<<index<<endl;
-				return ;
-			}
-		}
+		if(isInDatabase(answer))
+			return ;
 		
 		cout<<"Not found in database"<<endl;
 	}
+	
+private:
+	bool isInDatabase(string answer)
+	{
+		for(int i=0; i<chainLength; i++)
+		{
+			if(isInCurrentChain(i))
+				return true;
+		}
+		return false;
+	}
+	
+	bool isInCurrentChain(int i)
+	{
+		if(currentChain[i] == answer)
+		{
+			cout<<"Your word has index "<<index<<endl;
+			return true;
+		}
+		return false;
+	}
 };
-
 
 int main(){
 
-	Hashing h;
-	h.loadFile("test2.txt");
-	h.fillDatabase();
-	h.createDatabaseFile();
+	Hashing h("test2.txt");
 	h.find("Kowalski");
 	
 	return 0;
