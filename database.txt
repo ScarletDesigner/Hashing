@@ -1,431 +1,399 @@
-Index 3:  Aleksandrowicz Aleksandrowicz 
-Index 270:  Bak Bak 
-Index 274:  Bek Bek 
+Index 2:  spiewak 
+Index 3:  Borysow 
+Index 8:  Wytrwal 
+Index 9:  Szymura 
+Index 11:  Kostosz 
+Index 16:  Sztonyk 
+Index 27:  Szyszko 
+Index 29:  Adamecki 
+Index 30:  Niedbala 
+Index 34:  Kanciala Ciebiera Ciemiega 
+Index 38:  Barbucha 
+Index 40:  Banasiak Bacalski Michalak 
+Index 42:  Bednarek 
+Index 47:  Bialczak 
+Index 49:  Berakacz Bajinska 
+Index 50:  Afganski 
+Index 52:  Galiczak 
+Index 53:  Dartcjan Bareczek 
+Index 54:  Grodecki Bakalarz Basajski 
+Index 55:  Glowacka 
+Index 57:  Baranski 
+Index 59:  Felerska Lisiecki 
+Index 61:  Banaszek Kaminska 
+Index 63:  Cichowas 
+Index 64:  Machlarz Kornacki 
+Index 65:  Balonski Terlecki Wojcicki Koniecko 
+Index 66:  Bawarski Adamczyk Basinski Malarski Zalesiak 
+Index 67:  Kasinska Antoniak Chodyrak Felinski 
+Index 68:  Nawrocka Benedykt Dziedzic Lewanska 
+Index 69:  Kaminski Kacprzak Liderski 
+Index 73:  Majewski Bakowski Majksner Pilsniak 
+Index 74:  Jasinski Bydgoski Balowski Twardoch 
+Index 75:  Furmanik Lubaszka Kowalska Jugowiec 
+Index 77:  Kludziak Bartosik Urbanski Lelewicz Sierpien 
+Index 78:  Olendzki Listopad 
+Index 79:  Semeniuk Holownia 
+Index 80:  Witebski Jaworska 
+Index 81:  Lipinski Kosinska Kopernik 
+Index 82:  Sasimski Krynicki Figurski 
+Index 83:  Kowalski Janowicz Sadowski Zawadzki Niziolek Tegowska 
+Index 84:  Janowski Lisinski 
+Index 85:  Boronski Stuchlik Zawodnik Walewski Broniarz 
+Index 86:  Pigulski Grudzien Sekowska 
+Index 87:  Zalewicz Bokowski 
+Index 88:  Jaworski Zalewski 
+Index 89:  Szczepka Rakowski 
+Index 90:  Katowicz 
+Index 92:  Rydawski Mironiuk 
+Index 93:  Symanski Sikorski 
+Index 95:  Dukowski 
+Index 96:  Hubertus smietana 
+Index 98:  Piwonski 
+Index 100:  Gumowski Pszczola Krawczyk 
+Index 101:  Wrzesien 
+Index 102:  Szumilas 
+Index 104:  Kotowicz Malyszko 
+Index 105:  Streziok 
+Index 106:  Szymczak Sycowski 
+Index 107:  Nosowski Sosnierz 
+Index 109:  Wypychlo 
+Index 117:  Duszczyk Zukowski 
+Index 120:  Szewczyk 
+Index 134:  Adamiecki 
+Index 147:  Adameczek 
+Index 149:  zukowski 
+Index 151:  Domagalik Biegajski Kazanecka 
+Index 152:  Chojnacki 
+Index 158:  Chocholek Chmielacz 
+Index 159:  Checinski 
+Index 160:  Czarnecka 
+Index 163:  Jablonska Michalski Adalewski Niedziela 
+Index 164:  Chlopicki 
+Index 167:  Kaczmarek 
+Index 168:  Czarnecki Polanicki 
+Index 169:  Ratajczak Bielawski 
+Index 170:  Radwanska Fastnacht 
+Index 171:  Kacperski Smietanka Jablonski Wiercioch Siennicki 
+Index 173:  Bladowicz 
+Index 174:  Obornicki Stefanska 
+Index 175:  Szalapata 
+Index 178:  Malborski Abramczyk Bledowski Puchalski 
+Index 179:  Kucharski 
+Index 180:  Dabrowski 
+Index 181:  Hentelski Kendziora 
+Index 182:  Lechowicz 
+Index 183:  Olesinska Jasiewicz Grabowski Podsiadly Amanowicz Pasternak 
+Index 185:  Kowalonek 
+Index 186:  Wiesiolek 
+Index 187:  Dudzinska Nowakczek 
+Index 188:  Jakubczyk 
+Index 189:  Wachowicz Anczewski 
+Index 191:  Binkowski Jankowski 
+Index 192:  Maslowska Zielinski Pieczyrak 
+Index 193:  Wieczorek 
+Index 194:  Bolkowicz Misiewicz 
+Index 195:  Nisiewicz Bartoszek Dudzinski Bolkowski 
+Index 196:  Krakowski 
+Index 197:  Klosinski Bonkowski 
+Index 198:  Persinski 
+Index 199:  Pawlowska 
+Index 200:  Antkowicz Karpowicz 
+Index 201:  Borkowski Mokrzycka 
+Index 203:  Aronowski 
+Index 205:  Kowalczyk Rosiewicz 
+Index 206:  Ogonowski 
+Index 207:  Pawlowski 
+Index 209:  Skoczylas 
+Index 210:  Skrzypiec 
+Index 211:  Kozlowska 
+Index 212:  Dziwulski 
+Index 213:  Zuchowski 
+Index 215:  Szymanski 
+Index 216:  Zychowicz Kostrzewa 
+Index 217:  Olszewski 
+Index 218:  Witkowski 
+Index 219:  Kozlowski 
+Index 225:  Rutkowski 
+Index 227:  Ostrowski Mrozowski 
+Index 230:  Szoltysek 
+Index 234:  Szumowski 
+Index 242:  Tuszynski 
+Index 245:  zuchowski 
+Index 259:  Babalewski 
+Index 268:  Anarchista 
+Index 270:  Bak 
+Index 273:  Celeborski 
+Index 274:  Bek 
+Index 275:  KieSlowski 
+Index 276:  Celejewski Borowiecka 
 Index 280:  Maj 
-Index 293:  Muc 
-Index 294:  Wan 
-Index 296:  Lis Lis 
-Index 299:  But 
-Index 301:  Kos Kos 
-Index 306:  Waz Waz 
+Index 283:  Bednarczyk Bananowski Chwalinski Ponichtera 
+Index 286:  Bialkowski 
+Index 287:  Baranowski 
+Index 288:  Chochowski Biankowski Bujakowska Prandzioch 
+Index 292:  Bienkowski 
+Index 293:  Bodnarczyk Kobylinska Muc 
+Index 294:  Wieckowska Wan 
+Index 295:  Blazejczyk 
+Index 296:  Lis 
+Index 297:  Wlochinski 
+Index 298:  Kalinowski 
+Index 299:  Czerwionka But 
+Index 300:  Malinowski Szczepanek 
+Index 301:  Kos Kucharczyk 
+Index 302:  Czajkowski Banaszczyk Kowalewicz 
+Index 303:  Bentkowski 
+Index 305:  Dutkiewicz 
+Index 306:  Batorowicz Waz Pienkowski 
+Index 307:  Graczynski Kieslowski 
+Index 308:  Wroclawski 
 Index 309:  Mus 
+Index 310:  Zambrowicz 
+Index 311:  Czerwinski Wroblewski 
+Index 312:  Nieszporek 
+Index 313:  Krzanowska Bzinkowski Borutawski 
+Index 314:  Antonowicz Buczkowski 
+Index 315:  Wisniewski Nowakowski Krzesinski Kozakowski 
+Index 316:  Grzeszczak 
+Index 317:  Rynkiewicz Wesolowska 
 Index 318:  Rys 
-Index 366:  Baja Baja 
-Index 367:  Baka Baka 
+Index 323:  Sokolowski Zakrzewski 
+Index 324:  Warszawski Ziolkowski 
+Index 327:  Krystyniak 
+Index 329:  Piotrowski 
+Index 330:  Mazurowski Skrzypulec 
+Index 332:  Otwinowski 
+Index 337:  Styczynska Przybylski 
+Index 366:  Baja 
+Index 367:  Baka 
 Index 371:  Blad 
+Index 374:  Banakiewicz 
+Index 375:  Banachowicz 
 Index 376:  Rada 
-Index 379:  Beki Beki 
-Index 382:  Duda Duda Duda Zaba Duda 
+Index 378:  Maciejewski 
+Index 379:  Beki 
+Index 381:  Adamowiczek 
+Index 382:  Duda Banasiewicz Zaba 
 Index 383:  Mela 
-Index 384:  Bacz Bacz Kasa 
+Index 384:  Bacz Magielewski Kasa 
 Index 385:  Piec Kata 
-Index 387:  Fell 
-Index 388:  Kawa 
-Index 389:  Mlak 
+Index 387:  Fell Chmielewski 
+Index 388:  Balcerowski Kawa Grabalowski 
+Index 389:  Andrzejczak Mlak 
+Index 391:  Kildarewicz Barcikowski 
 Index 392:  Boni 
 Index 393:  Kita 
-Index 394:  Mewa Kral Kral 
-Index 397:  Kula Wenc Kula 
+Index 394:  Mewa Kral 
+Index 397:  Chmielowski Kula Wenc 
 Index 398:  Ryba 
-Index 399:  Stec Wina Ksel 
-Index 400:  Alot Alot Aron Aron Wawa 
-Index 403:  Oles Spek 
-Index 408:  Krol Krol Krol Bryk Krol Krol Krol Krol Krol Krol 
-Index 412:  Knot Knot 
+Index 399:  Majchrowicz Stec Wina Ksel 
+Index 400:  Alot Mysliwiecka Aron Wawa 
+Index 401:  Badurzewska Kisielewicz 
+Index 403:  Oles Spek Sienkiewicz 
+Index 406:  Lewandowski Kwasniewska 
+Index 408:  Krol Bryk 
+Index 409:  Pazdziernik 
+Index 412:  Knot 
 Index 413:  Kruk 
-Index 414:  Inny Krul Inny 
+Index 414:  Inny Krul Jedruszczak 
+Index 415:  Ludziejewsk 
+Index 416:  Bronikowski 
 Index 417:  Lewy 
-Index 418:  Sliz Sliz 
-Index 420:  Pyza Pyza 
+Index 418:  Sliz 
+Index 419:  Szczepanski Augustyniak 
+Index 420:  Pyza 
+Index 422:  Anyzkiewicz Kwiatkowski Prasilowski Poniatowski 
+Index 423:  Skretkowska 
 Index 429:  Kusz 
 Index 430:  Luty 
-Index 466:  Bajda Bajda 
+Index 431:  Tomaszewski 
+Index 432:  Skoczkowski 
+Index 436:  Augustowski Slomczynski 
+Index 445:  Reszczynski 
+Index 455:  Zwierzynski 
+Index 466:  Bajda 
 Index 468:  Hebda 
 Index 472:  Hajda 
-Index 474:  Magda Magda 
-Index 476:  Beben Beben 
-Index 479:  Kadej Kadej 
-Index 480:  Banan Banan 
+Index 474:  Magda 
+Index 476:  Beben 
+Index 479:  Balickiewicz Kadej 
+Index 480:  Banan 
 Index 481:  Basaj Rabka 
-Index 483:  Kabat Kabat 
-Index 484:  Bajer Kalka Bajer Raban Baran Baran Bajer Majka Baran Bajer Beblo 
-Index 485:  Banas Kaber Kaber Banas Banas 
-Index 486:  Gibki Babul Jader Jader Carek Carek Babul 
-Index 487:  Golda Golda 
-Index 488:  Majek Manka 
-Index 489:  Baras Zajac Zajac Zajac Bugaj Baras 
-Index 490:  Basik Basik Jasak 
-Index 491:  Jonca Wanad Wanad Lubec 
+Index 483:  Kabat 
+Index 484:  Bajer Kalka Raban Baran Majka Beblo 
+Index 485:  Banas Kaber 
+Index 486:  Gibki Babul Jader Carek 
+Index 487:  Golda 
+Index 488:  Majek Barankiewicz Manka 
+Index 489:  Baras Zajac Bugaj 
+Index 490:  Basik Jasak 
+Index 491:  Jonca Wanad Lubec 
 Index 492:  Balon Kojec 
-Index 493:  Dudek Bawar Bujak Dudek Dudek Dudek Dudek Dudek Bawar Dudek 
-Index 494:  Malik Cisna Bajor Bajor Socha 
+Index 493:  Dudek Bawar Bujak Matlachowska 
+Index 494:  Malik Cisna Bajor Socha 
 Index 495:  Cisek 
-Index 496:  Gorec Gorec Krema Mieta Mieta 
+Index 496:  Gorec Hajdukiewicz Krema Mieta 
 Index 497:  Rodak Bialy 
-Index 498:  Boran Boran Milek Milek 
-Index 499:  Linek Borek Aniol Telma Borek Aniol Borek 
-Index 500:  Gates Gates 
+Index 498:  Boran Milek 
+Index 499:  Bialosiewicz Linek Borek Aniol Telma 
+Index 500:  Banasikowski Gates 
 Index 501:  Rodek 
 Index 502:  Faron Warka 
-Index 503:  Polak Bitwa Polak Polak 
-Index 504:  Bator Hardy Hardy Bator 
+Index 503:  Polak Bitwa 
+Index 504:  Bator Hardy Dobrosielski 
 Index 505:  Rybak Koska 
 Index 506:  Rolla 
 Index 507:  Piglo Komik 
 Index 508:  Lewik Bodny 
-Index 509:  Tkacz Chudy Kamyk Maron Sarre Sasim Katon Kamyk 
-Index 510:  Kowal Beryl Beryl Kowal 
-Index 511:  Witaj Socko Socko Draus 
-Index 512:  Sliwa Nowak Nowak Nowak Nowak Nowak Nowak Nowak 
+Index 509:  Tkacz Chudy Kamyk Maron Sarre Sasim Katon 
+Index 510:  Barylkiewicz Kowal Beryl 
+Index 511:  Witaj Andrzejewski Socko Draus 
+Index 512:  Sliwa Nowak 
 Index 514:  Garus 
 Index 515:  Kusek Suder Groza 
-Index 517:  Dyzma 
-Index 518:  Lowik 
+Index 517:  Dyzma Krolikiewicz 
+Index 518:  Nieweglowski Lowik 
 Index 519:  Dusza 
-Index 520:  Witas Tutaj Tutaj Nowik Rorat Rorat 
-Index 523:  Turek Linus Turek Linus 
-Index 524:  Kupis Kupis 
+Index 520:  Ludziejewski Witas Tutaj Nowik Rorat 
+Index 523:  Turek Linus 
+Index 524:  Kupis 
 Index 525:  Wosik 
 Index 527:  Gorny Konny 
+Index 528:  Zazemblowski 
+Index 531:  Mazurkiewicz Korzeniewski 
+Index 533:  Bartoszewicz 
+Index 534:  Bartoszewski 
 Index 535:  Pytko 
-Index 537:  Wolny 
+Index 537:  Wolny Szczygielski 
+Index 538:  Gliszczynska 
+Index 539:  Wrzesniewska 
+Index 541:  Staniszewski 
 Index 545:  Mrusz 
 Index 546:  Sznur 
 Index 547:  Dyszy 
-Index 551:  Wozny zydek zydek 
+Index 551:  Wozny zydek 
+Index 552:  Muraszkowski 
 Index 555:  zylka 
 Index 567:  Chebda 
-Index 572:  Balica Balica 
-Index 573:  Banach Bajdak Bajdak 
-Index 575:  Badera Badera 
+Index 572:  Balica 
+Index 573:  Banach Bajdak 
+Index 575:  Badera 
 Index 577:  Bachen 
 Index 579:  Adamek 
 Index 580:  Halama 
-Index 583:  Babula Babula 
-Index 584:  Bialek Bielak Bialek Bielak 
-Index 585:  Dubala Fichna Dubala 
-Index 586:  Biegar Biegar 
+Index 583:  Babula 
+Index 584:  Bialek Bielak 
+Index 585:  Dubala Fichna 
+Index 586:  Biegar 
 Index 587:  BartoS Babicz 
-Index 588:  Cebula Cebula 
-Index 591:  Badura Badura Arecki Arecki 
-Index 592:  Baczek Baczek Katana Kmicic Katana Chwala Chwala Kmicic 
-Index 594:  Mateja Kaleta Kaleta 
-Index 595:  Jasiak Jasiak 
-Index 596:  Blocki Blocki Bielaw Cichon 
-Index 598:  Blasik Blasik Jochem 
-Index 600:  Bansik Bansik 
+Index 588:  Cebula 
+Index 591:  Badura Arecki 
+Index 592:  Baczek Katana Kmicic Chwala 
+Index 594:  Mateja Kaleta 
+Index 595:  Jasiak 
+Index 596:  Blocki Bielaw Cichon 
+Index 598:  Blasik Jochem 
+Index 600:  Bansik 
 Index 601:  Klimka 
 Index 602:  Bapski 
-Index 603:  Adamus Baryla Adamus Baryla Chomik 
-Index 604:  Chylak Barski Gierat Barski Chylak 
+Index 603:  Adamus Baryla Chomik 
+Index 604:  Chylak Barski Gierat 
 Index 605:  Janota 
-Index 606:  Kratka Knapik Cupial Knapik Piatek Piatek 
-Index 608:  Bawicz Binski Pawlak Binski Helski Alotek Pawlak Sareta Hentel Pawlak Glauer Pawlak Pawlak Alotek Bawicz Pawlak Helski Pawlak Pawlak Melnik Melnik 
-Index 609:  Papier Papier 
+Index 606:  Kratka Knapik Cupial Piatek Piatek 
+Index 607:  Wojciechowska 
+Index 608:  Bawicz Binski Pawlak Helski Alotek Sareta Hentel Glauer Melnik 
+Index 609:  Papier 
 Index 610:  Misiek 
-Index 612:  Buczek Buczek 
-Index 613:  Sekula Sztaba Sekula 
+Index 611:  Banaszkiewicz 
+Index 612:  Buczek 
+Index 613:  Sekula Sztaba 
 Index 614:  Wlodek 
-Index 615:  Smolka Wojcik Konska Wojcik 
-Index 616:  Kitlas Pawlik Byczek Pawlik Kaluza Milion Kitlas Milion 
-Index 617:  Kinski Kinski 
-Index 618:  Kaczor Kaczor Holski Kaczor 
+Index 615:  Smolka Wojciechowski Wojcik Konska 
+Index 616:  Kitlas Pawlik Byczek Kaluza Milion 
+Index 617:  Kinski 
+Index 618:  Kaczor Holski 
 Index 619:  Szojda Wrobel 
-Index 620:  Lipski Pilski Lipski Pilski 
-Index 621:  Andrus Kwolek Boruta Kwolek 
+Index 620:  Lipski Pilski 
+Index 621:  Andrus Kwolek Boruta 
 Index 622:  Paszek Gawron Krason Kardys 
-Index 623:  Gorski Gorski Gorski Myrcik Kantor 
+Index 623:  Gorski Myrcik Kantor 
 Index 624:  Szwaja Suchon 
-Index 625:  Batory Magosz Wcislo Batory Bartus 
-Index 626:  Piwnik Piwnik 
-Index 627:  Kaktus Kaktus Brylok 
-Index 628:  Küttner Küttner 
-Index 629:  Grzmil Grzmil 
-Index 631:  Rokpol Rokpol 
-Index 632:  Blotny Salezy Wojtas Wolicz Wojtas Blotny Wolicz Salezy Mrozek 
-Index 633:  Wolski Musiol Wolski 
-Index 635:  Prokop Nawrot Nawrot Prokop 
+Index 625:  Batory Magosz Wcislo Bartus 
+Index 626:  Piwnik 
+Index 627:  Kaktus Brylok 
+Index 628:  Küttner 
+Index 629:  Grzmil Frymarkiewicz 
+Index 631:  Rokpol 
+Index 632:  Blotny Salezy Wojtas Wolicz Mrozek 
+Index 633:  Wolski Musiol 
+Index 635:  Prokop Nawrot 
 Index 636:  Wtorek Krosno Szybki 
-Index 637:  Piorun Drozdz Drozdz 
+Index 637:  Piorun Drozdz 
 Index 638:  zogala Wawron 
-Index 640:  Rurski Rurski 
-Index 641:  Tomkow Sularz Tomkow 
+Index 640:  Augustyneczek Rurski 
+Index 641:  Tomkow Sularz 
 Index 642:  Orczyk 
 Index 643:  Porwol 
 Index 645:  Zmelty 
-Index 648:  Rokosz Rokosz 
+Index 648:  Rokosz 
 Index 656:  Kotusz 
 Index 660:  Myszor 
 Index 668:  zwirek 
+Index 672:  Powietrzynski 
 Index 673:  Babecki 
-Index 676:  Adamiec Adamiec 
-Index 680:  Bebanek Bebanek 
-Index 684:  Bebenek Bebenek 
-Index 685:  Bandera Bandera 
-Index 687:  Bakucha Balicki Balicki Bakucha 
+Index 676:  Adamiec 
+Index 680:  Bebanek 
+Index 684:  Bebenek 
+Index 685:  Bandera 
+Index 687:  Bakucha Balicki 
 Index 691:  Alancki 
-Index 692:  Baranek Baranek 
+Index 692:  Baranek 
 Index 693:  Bielawa 
-Index 694:  Bargiel Bargiel 
+Index 694:  Bargiel 
 Index 695:  Bieniek 
-Index 696:  Kalicki Barabuk Kalicki 
-Index 697:  Banasik Banasik Latacki 
-Index 698:  Adamski Adamski Adamski Adamski Adamski Adamski Adamski Adamski Adamski Adamski Adamski Adamski Adamski Adamski Adamski Majcher Majcher Adamski 
+Index 696:  Kalicki Barabuk 
+Index 697:  Banasik Latacki 
+Index 698:  Adamski Majcher 
 Index 700:  Kildare Cieslak 
-Index 701:  Kanarek Kanarek 
-Index 703:  Chwalek Chwalek 
-Index 704:  Dabrowa Chochol Chochol Kandora 
+Index 701:  Kanarek 
+Index 703:  Chwalek 
+Index 704:  Dabrowa Chochol Kandora 
 Index 705:  Camillo Pieniak 
 Index 706:  Bregula Czubala 
-Index 707:  Popanda Kregiel Zalecki Kawicki Kregiel Kawicki 
-Index 708:  Bilskan Gorecki Gorecki Filipek Lichota Filipek Lichota Cieslik Banalow Banalow Cieslik 
+Index 707:  Popanda Kregiel Zalecki Kawicki 
+Index 708:  Bilskan Gorecki Filipek Lichota Cieslik Banalow 
 Index 709:  Markiel 
-Index 710:  Krawiec Chlopek Barylka Barylka Dziekan Dziekan Chlopek 
-Index 711:  Gwiazda Mathias Gwiazda 
+Index 710:  Krawiec Chlopek Barylka Dziekan 
+Index 711:  Gwiazda Mathias 
 Index 712:  Ceglarz 
-Index 713:  Radziej Tomalak Chinski Chinski 
+Index 713:  Radziej Tomalak Chinski 
 Index 714:  Medrzec 
-Index 715:  Soplica Matczak Matczak Soplica Bartnik Sawicki Sawicki Sawicki Sawicki Sawicki Sawicki Sawicki Sawicki Bartnik Sawicki 
-Index 716:  Paterek Antczak Kielski Paterek Antczak Harazim Kielski 
-Index 717:  Sobczak Walczak Sobczak Kobylka Walczak Walczak Walczak Walczak Orlicki Orlicki Sobczak Walczak Walczak Walczak Sobczak Sobczak Walczak Walczak 
-Index 719:  Janosik 
-Index 720:  Kulasek Serocki Jaromin Jaromin Jaromin 
-Index 721:  Konczak Tomalik Konczak 
+Index 715:  Soplica Matczak Bartnik Sawicki 
+Index 716:  Paterek Antczak Kielski Harazim 
+Index 717:  Sobczak Walczak Kobylka Orlicki 
+Index 719:  Aleksandrowicz Janosik 
+Index 720:  Kulasek Serocki Jaromin 
+Index 721:  Konczak Tomalik 
 Index 722:  Kowalik Banczyk 
-Index 723:  Holewik Holewik 
-Index 724:  Nowicki Nowicki Nowicki Siemion lasecka Botwina Nowicki Nowicki Nowicki 
-Index 726:  Barczyk Barczyk Wiejski Iwanski Iwanski 
+Index 723:  Holewik 
+Index 724:  Nowicki Siemion lasecka Botwina 
+Index 726:  Barczyk Wiejski Iwanski 
 Index 727:  Serwata 
 Index 728:  Pietras 
 Index 729:  Kupczak 
-Index 730:  Kopycki Mordyan Kopycki Cisasny Wantuch 
+Index 730:  Kopycki Mordyan Cisasny Wantuch 
 Index 731:  Mroczek 
 Index 733:  Witczak 
-Index 735:  Kulesza Mazurek Jozwiak Kulesza Barszcz Mazurek Jozwiak Barszcz 
+Index 735:  Kulesza Mazurek Jozwiak Barszcz 
 Index 736:  Dmitruk Kowolik 
-Index 737:  Tkaczyk Tkaczyk 
+Index 737:  Tkaczyk 
 Index 738:  Grabysz 
-Index 739:  Zaluski Wozniak Wozniak Wozniak Wozniak Wozniak Wozniak Wozniak Wozniak Wozniak Wozniak Wozniak Zaluski Wozniak Wozniak Wozniak Wozniak 
-Index 740:  Misztal Kuzniar Misztal Kuzniar 
+Index 739:  Zaluski Wozniak 
+Index 740:  Misztal Kuzniar 
 Index 742:  Wypchlo 
 Index 744:  Smolarz Dowmont Jonkisz Soprych 
-Index 745:  Wysocki Wysocki Wysocki Wysocki Wysocki Wysocki Wysocki 
-Index 746:  Chorzyk Chorzyk 
-Index 747:  Budzisz Budzisz 
-Index 752:  Wojtyra Styczen Wojtyra 
-Index 756:  spiewak 
-Index 757:  Borysow 
-Index 762:  Wytrwal 
-Index 763:  Szymura 
-Index 765:  Kostosz 
-Index 770:  Sztonyk Sztonyk 
-Index 781:  Szyszko 
-Index 783:  Adamecki 
-Index 784:  Niedbala 
-Index 788:  Kanciala Ciebiera Ciebiera Ciemiega 
-Index 792:  Barbucha Barbucha 
-Index 794:  Banasiak Bacalski Michalak Banasiak Bacalski Michalak 
-Index 796:  Bednarek Bednarek 
-Index 801:  Bialczak Bialczak 
-Index 803:  Berakacz Bajinska Berakacz 
-Index 804:  Afganski Afganski 
-Index 806:  Galiczak Galiczak 
-Index 807:  Dartcjan Bareczek Bareczek 
-Index 808:  Grodecki Grodecki Bakalarz Basajski 
-Index 809:  Glowacka 
-Index 811:  Baranski Baranski 
-Index 813:  Felerska Lisiecki 
-Index 815:  Banaszek Banaszek Kaminska 
-Index 817:  Cichowas Cichowas 
-Index 818:  Machlarz Machlarz Kornacki 
-Index 819:  Balonski Terlecki Wojcicki Balonski Koniecko Terlecki 
-Index 820:  Bawarski Adamczyk Adamczyk Adamczyk Bawarski Basinski Adamczyk Adamczyk Adamczyk Malarski Adamczyk Adamczyk Basinski Zalesiak Adamczyk Adamczyk Adamczyk Adamczyk Zalesiak 
-Index 821:  Kasinska Antoniak Chodyrak Felinski Chodyrak 
-Index 822:  Nawrocka Benedykt Dziedzic Dziedzic Benedykt Lewanska 
-Index 823:  Kaminski Kacprzak Kaminski Kaminski Kacprzak Kaminski Liderski Kaminski 
-Index 827:  Majewski Bakowski Majewski Majewski Majewski Majksner Pilsniak Majewski Majewski Majewski Bakowski 
-Index 828:  Jasinski Jasinski Jasinski Jasinski Bydgoski Balowski Jasinski Balowski Twardoch Jasinski Bydgoski 
-Index 829:  Furmanik Lubaszka Kowalska Lubaszka Jugowiec 
-Index 831:  Kludziak Bartosik Urbanski Urbanski Bartosik Lelewicz Sierpien 
-Index 832:  Olendzki Listopad Olendzki 
-Index 833:  Semeniuk Holownia Semeniuk 
-Index 834:  Witebski Jaworska 
-Index 835:  Lipinski Kosinska Kopernik Kopernik Lipinski 
-Index 836:  Sasimski Krynicki Krynicki Figurski Figurski 
-Index 837:  Kowalski Janowicz Kowalski Kowalski Kowalski Kowalski Sadowski Zawadzki Zawadzki Kowalski Kowalski Kowalski Niziolek Sadowski Kowalski Janowicz Tegowska Zawadzki Kowalski Kowalski Kowalski 
-Index 838:  Janowski Janowski Lisinski 
-Index 839:  Boronski Stuchlik Zawodnik Stuchlik Zawodnik Boronski Walewski Broniarz 
-Index 840:  Pigulski Grudzien Pigulski Sekowska 
-Index 841:  Zalewicz Bokowski Zalewicz Bokowski 
-Index 842:  Jaworski Zalewski Jaworski Jaworski Jaworski Zalewski Jaworski Jaworski Jaworski 
-Index 843:  Szczepka Rakowski 
-Index 844:  Katowicz 
-Index 846:  Rydawski Mironiuk Rydawski 
-Index 847:  Symanski Symanski Symanski Sikorski Symanski 
-Index 849:  Dukowski 
-Index 850:  Hubertus Hubertus smietana 
-Index 852:  Piwonski Piwonski 
-Index 854:  Gumowski Pszczola Gumowski Krawczyk Pszczola Krawczyk 
-Index 855:  Wrzesien 
-Index 856:  Szumilas 
-Index 858:  Kotowicz Malyszko 
-Index 859:  Streziok 
-Index 860:  Szymczak Sycowski Szymczak Sycowski 
-Index 861:  Nosowski Nosowski Sosnierz Sosnierz 
-Index 863:  Wypychlo 
-Index 871:  Duszczyk Zukowski Duszczyk 
-Index 874:  Szewczyk Szewczyk 
-Index 888:  Adamiecki Adamiecki 
-Index 901:  Adameczek Adameczek 
-Index 903:  zukowski 
-Index 905:  Domagalik Biegajski Kazanecka Biegajski 
-Index 906:  Chojnacki Chojnacki 
-Index 912:  Chocholek Chmielacz Chmielacz 
-Index 913:  Checinski 
-Index 914:  Czarnecka Czarnecka Czarnecka Czarnecka 
-Index 917:  Jablonska Michalski Michalski Adalewski Michalski Michalski Michalski Michalski Michalski Michalski Adalewski Michalski Jablonska Michalski Niedziela Michalski Michalski Michalski Michalski Jablonska 
-Index 918:  Chlopicki Chlopicki 
-Index 921:  Kaczmarek Kaczmarek 
-Index 922:  Czarnecki Czarnecki Czarnecki Czarnecki Czarnecki Polanicki Czarnecki Polanicki 
-Index 923:  Ratajczak Bielawski Bielawski 
-Index 924:  Radwanska Fastnacht 
-Index 925:  Kacperski Smietanka Jablonski Smietanka Jablonski Jablonski Jablonski Wiercioch Kacperski Siennicki Siennicki Jablonski 
-Index 927:  Bladowicz 
-Index 928:  Obornicki Stefanska Obornicki 
-Index 929:  Szalapata 
-Index 932:  Malborski Abramczyk Abramczyk Bledowski Bledowski Malborski Puchalski 
-Index 933:  Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski Kucharski 
-Index 934:  Dabrowski Dabrowski Dabrowski Dabrowski Dabrowski Dabrowski Dabrowski Dabrowski Dabrowski Dabrowski 
-Index 935:  Hentelski Kendziora 
-Index 936:  Lechowicz Lechowicz 
-Index 937:  Olesinska Jasiewicz Grabowski Podsiadly Amanowicz Grabowski Amanowicz Jasiewicz Podsiadly Pasternak 
-Index 939:  Kowalonek Kowalonek 
-Index 940:  Wiesiolek Wiesiolek 
-Index 941:  Dudzinska Nowakczek 
-Index 942:  Jakubczyk Jakubczyk 
-Index 943:  Wachowicz Anczewski Anczewski Wachowicz 
-Index 945:  Binkowski Binkowski Jankowski Jankowski 
-Index 946:  Maslowska Zielinski Zielinski Zielinski Zielinski Zielinski Zielinski Pieczyrak Zielinski 
-Index 947:  Wieczorek Wieczorek Wieczorek Wieczorek Wieczorek Wieczorek Wieczorek Wieczorek 
-Index 948:  Bolkowicz Misiewicz Bolkowicz 
-Index 949:  Nisiewicz Bartoszek Dudzinski Bolkowski Bartoszek Nisiewicz Bolkowski Dudzinski 
-Index 950:  Krakowski Krakowski 
-Index 951:  Klosinski Bonkowski Bonkowski Klosinski 
-Index 952:  Persinski Persinski 
-Index 953:  Pawlowska 
-Index 954:  Antkowicz Karpowicz Antkowicz Karpowicz 
-Index 955:  Borkowski Borkowski Borkowski Mokrzycka Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski Borkowski 
-Index 957:  Aronowski Aronowski 
-Index 959:  Kowalczyk Kowalczyk Kowalczyk Kowalczyk Kowalczyk Kowalczyk Kowalczyk Rosiewicz Kowalczyk Rosiewicz Kowalczyk 
-Index 960:  Ogonowski Ogonowski 
-Index 961:  Pawlowski Pawlowski Pawlowski Pawlowski Pawlowski Pawlowski Pawlowski Pawlowski 
-Index 963:  Skoczylas 
-Index 964:  Skrzypiec 
-Index 965:  Kozlowska 
-Index 966:  Dziwulski Dziwulski 
-Index 967:  Zuchowski 
-Index 969:  Szymanski Szymanski 
-Index 970:  Zychowicz Kostrzewa Zychowicz 
-Index 971:  Olszewski Olszewski Olszewski Olszewski 
-Index 972:  Witkowski Witkowski Witkowski 
-Index 973:  Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski Kozlowski 
-Index 979:  Rutkowski Rutkowski Rutkowski Rutkowski Rutkowski Rutkowski Rutkowski Rutkowski Rutkowski Rutkowski Rutkowski 
-Index 981:  Ostrowski Ostrowski Mrozowski Ostrowski Ostrowski Ostrowski Ostrowski Ostrowski Ostrowski Ostrowski Ostrowski Ostrowski Ostrowski Mrozowski 
-Index 984:  Szoltysek 
-Index 988:  Szumowski Szumowski 
-Index 996:  Tuszynski Tuszynski 
-Index 999:  zuchowski 
-Index 1013:  Babalewski Babalewski 
-Index 1022:  Anarchista 
-Index 1027:  Celeborski 
-Index 1029:  KieSlowski 
-Index 1030:  Celejewski Celejewski Borowiecka 
-Index 1037:  Bednarczyk Bananowski Bednarczyk Chwalinski Ponichtera Chwalinski Bananowski 
-Index 1040:  Bialkowski Bialkowski 
-Index 1041:  Baranowski Baranowski 
-Index 1042:  Chochowski Biankowski Chochowski Biankowski Bujakowska Prandzioch 
-Index 1046:  Bienkowski Bienkowski 
-Index 1047:  Bodnarczyk Bodnarczyk Kobylinska 
-Index 1048:  Wieckowska 
-Index 1049:  Blazejczyk Blazejczyk 
-Index 1051:  Wlochinski 
-Index 1052:  Kalinowski Kalinowski Kalinowski Kalinowski Kalinowski Kalinowski Kalinowski Kalinowski 
-Index 1053:  Czerwionka 
-Index 1054:  Malinowski Malinowski Szczepanek 
-Index 1055:  Kucharczyk 
-Index 1056:  Czajkowski Banaszczyk Banaszczyk Kowalewicz Kowalewicz Czajkowski 
-Index 1057:  Bentkowski Bentkowski 
-Index 1059:  Dutkiewicz 
-Index 1060:  Batorowicz Pienkowski Pienkowski Batorowicz 
-Index 1061:  Graczynski Graczynski Kieslowski 
-Index 1062:  Wroclawski 
-Index 1064:  Zambrowicz Zambrowicz 
-Index 1065:  Czerwinski Czerwinski Wroblewski Wroblewski Czerwinski Czerwinski Czerwinski Czerwinski 
-Index 1066:  Nieszporek 
-Index 1067:  Krzanowska Bzinkowski Borutawski Bzinkowski Borutawski Borutawski 
-Index 1068:  Antonowicz Antonowicz Buczkowski Buczkowski 
-Index 1069:  Wisniewski Nowakowski Nowakowski Wisniewski Nowakowski Wisniewski Wisniewski Nowakowski Wisniewski Nowakowski Wisniewski Krzesinski Kozakowski Krzesinski Wisniewski Kozakowski Nowakowski Wisniewski Wisniewski Wisniewski 
-Index 1070:  Grzeszczak Grzeszczak 
-Index 1071:  Rynkiewicz Wesolowska Wesolowska 
-Index 1077:  Sokolowski Sokolowski Sokolowski Sokolowski Sokolowski Sokolowski Sokolowski Sokolowski Zakrzewski Sokolowski Sokolowski 
-Index 1078:  Warszawski Ziolkowski Warszawski 
-Index 1081:  Krystyniak Krystyniak 
-Index 1083:  Piotrowski Piotrowski Piotrowski Piotrowski Piotrowski Piotrowski Piotrowski 
-Index 1084:  Mazurowski Skrzypulec Mazurowski Mazurowski 
-Index 1086:  Otwinowski Otwinowski 
-Index 1091:  Styczynska Przybylski Przybylski 
-Index 1128:  Banakiewicz Banakiewicz 
-Index 1129:  Banachowicz Banachowicz 
-Index 1132:  Maciejewski Maciejewski Maciejewski Maciejewski Maciejewski Maciejewski Maciejewski Maciejewski Maciejewski Maciejewski Maciejewski 
-Index 1135:  Adamowiczek Adamowiczek 
-Index 1136:  Banasiewicz Banasiewicz 
-Index 1138:  Magielewski 
-Index 1141:  Chmielewski Chmielewski Chmielewski 
-Index 1142:  Balcerowski Grabalowski Balcerowski 
-Index 1143:  Andrzejczak Andrzejczak 
-Index 1145:  Kildarewicz Barcikowski Barcikowski 
-Index 1151:  Chmielowski Chmielowski 
-Index 1153:  Majchrowicz Majchrowicz 
-Index 1154:  Mysliwiecka 
-Index 1155:  Badurzewska Badurzewska Kisielewicz 
-Index 1157:  Sienkiewicz Sienkiewicz 
-Index 1160:  Lewandowski Kwasniewska Lewandowski 
-Index 1163:  Pazdziernik 
-Index 1168:  Jedruszczak Jedruszczak 
-Index 1169:  Ludziejewsk 
-Index 1170:  Bronikowski 
-Index 1173:  Szczepanski Szczepanski Szczepanski Szczepanski Szczepanski Augustyniak Szczepanski Szczepanski Szczepanski Szczepanski Szczepanski Szczepanski Szczepanski Szczepanski Augustyniak Szczepanski Szczepanski Szczepanski 
-Index 1176:  Anyzkiewicz Kwiatkowski Kwiatkowski Kwiatkowski Kwiatkowski Prasilowski Kwiatkowski Poniatowski Kwiatkowski Kwiatkowski 
-Index 1177:  Skretkowska 
-Index 1185:  Tomaszewski Tomaszewski Tomaszewski Tomaszewski Tomaszewski Tomaszewski Tomaszewski 
-Index 1186:  Skoczkowski Skoczkowski 
-Index 1190:  Augustowski Slomczynski Slomczynski Slomczynski Augustowski 
-Index 1199:  Reszczynski Reszczynski 
-Index 1209:  Zwierzynski 
-Index 1233:  Balickiewicz Balickiewicz 
-Index 1242:  Barankiewicz Barankiewicz 
-Index 1247:  Matlachowska Matlachowska 
-Index 1250:  Hajdukiewicz 
-Index 1253:  Bialosiewicz 
-Index 1254:  Banasikowski Banasikowski 
-Index 1258:  Dobrosielski 
-Index 1264:  Barylkiewicz Barylkiewicz 
-Index 1265:  Andrzejewski Andrzejewski 
-Index 1271:  Krolikiewicz 
-Index 1272:  Nieweglowski Nieweglowski 
-Index 1274:  Ludziejewski 
-Index 1282:  Zazemblowski Zazemblowski 
-Index 1285:  Mazurkiewicz Korzeniewski 
-Index 1287:  Bartoszewicz Bartoszewicz 
-Index 1288:  Bartoszewski 
-Index 1291:  Szczygielski Szczygielski 
-Index 1292:  Gliszczynska 
-Index 1293:  Wrzesniewska 
-Index 1295:  Staniszewski 
-Index 1306:  Muraszkowski Muraszkowski 
-Index 1361:  Wojciechowska 
-Index 1365:  Banaszkiewicz Banaszkiewicz 
-Index 1369:  Wojciechowski Wojciechowski Wojciechowski Wojciechowski Wojciechowski Wojciechowski Wojciechowski 
-Index 1383:  Frymarkiewicz 
-Index 1394:  Augustyneczek Augustyneczek 
-Index 1426:  Powietrzynski 
+Index 745:  Wysocki 
+Index 746:  Chorzyk 
+Index 747:  Budzisz 
+Index 752:  Wojtyra Styczen 
