@@ -19,6 +19,7 @@ protected:
 			file >> line;
 			words.push_back(line);
 		}
+		file.close();
 	}
 };
 
@@ -38,9 +39,7 @@ protected:
 		{
 			currentWord = words[i];
 			int index = getIndex(currentWord);
-			int lengthOfWord = currentWord.size();
-			string word = words[i];
-			database[index].push_back(word);
+			database[index].push_back(currentWord);
 		}
 	}
 	
@@ -98,6 +97,7 @@ private:
 	{
 		if(currentChain.back().empty() == false)
 			return true;
+			
 		return false;
 	}
 	
@@ -127,11 +127,7 @@ public:
 	
 	void find(string answer)
 	{
-		this -> answer = answer;
-		index = getIndex(answer);
-		currentChain = database[index];
-		chainLength = currentChain.size();
-		
+		initializeVariablesAndAnswer(answer);
 		cout<<"Finding "<<answer<<" in database"<<endl;
 		
 		if(currentChain.empty())
@@ -144,6 +140,15 @@ public:
 	}
 	
 private:
+	
+	void initializeVariablesAndAnswer(string a)
+	{
+		answer = a;
+		index = getIndex(answer);
+		currentChain = database[index];
+		chainLength = currentChain.size();
+	}
+	
 	bool isInDatabase(string answer)
 	{
 		for(int i=0; i<chainLength; i++)
